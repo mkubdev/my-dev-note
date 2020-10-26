@@ -102,6 +102,7 @@ Navigate to page service and insert the following code:
 * page-service.ts
 <script src="https://gist.github.com/mkubdev/a31ad653532ddf439204cc435591e724.js"></script>
 
+
 We created two methods: one for getting all pages and one for getting page by id. We will make the same for `post` and `content` services.
 
 NOTE: Before using `HttpClient` we need to register into `app-module.ts`
