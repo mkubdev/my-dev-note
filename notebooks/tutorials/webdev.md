@@ -2,7 +2,7 @@
 
 - [Web Development Tutorials List](#tutorials-list)
   - [New stack](#new-stack)
-  - [Angular](#angular}
+  - [Angular](#angular)
   - [Dev Mobile](#dev-mobile)
 
 ## Tutorials List
