@@ -1,13 +1,14 @@
 # Web Development : Tutorials
 
 - [Web Development Tutorials List](#tutorials-list)
-  - [New stack](#new-stack)
-  - [Angular](#angular)
-  - [Dev Mobile](#dev-mobile)
+  - [TODO](#👽-todo)
+    - [Angular](#angular)
+    - [Dev Mobile](#📱-dev-mobile)
+  - [TO Write](#📚-to-write)
 
 ## Tutorials List
 
-### 👽 New Stack
+### 👽 TODO
 
 * [ ] Strapi + NuxtJs : eCommerce tuts : [https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial](https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial)
 
@@ -15,10 +16,12 @@
 
 * [ ] Build a simple Chat App with WebSocks in Go and Vue.js : [https://dev.to/jeroendk/building-a-simple-chat-application-with-websockets-in-go-and-vue-js-gao](https://dev.to/jeroendk/building-a-simple-chat-application-with-websockets-in-go-and-vue-js-gao)
 
-### Angular
+#### Angular
 
 * [ ] How does angular 2 change detection really work : [https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
 
-### 📱 Dev Mobile
+#### 📱 Dev Mobile
 
 * [ ] NativeScript + Angular [https://nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/](https://nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/)
+
+### 📚 To Write
