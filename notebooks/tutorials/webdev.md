@@ -1,7 +1,7 @@
 # Web Development : Tutorials
 
 - [Web Development Tutorials List](#tutorials-list)
-  - [TODO](#👽-todo)
+  - [TODO](#todo)
     - [Angular](#angular)
     - [Dev Mobile](#📱-dev-mobile)
   - [TO Write](#📚-to-write)
