@@ -2,7 +2,7 @@
 
 ## Life Tracking
 
-- 2019 - 2020 :
+### 2019 - 2020 :
   * 🔥 Learned Vanilla JS : 
       - I built a **Vanilla JS API** on topoff an OpenSource project made by [**Mozilla Fundation**](https://foundation.mozilla.org/fr/) : Thanks to this API, read a document and add annotations then perform super precise measurements on PDFs files directly in your browser (Area, perimeter, polyline, length ...). This project is not opensource.
   * Started learning **Angular 7** :
@@ -17,9 +17,8 @@
       - NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Programming)
   * 🎁🏆 First year of professional experience.
 
----
 
-- 2020 - 2021 :
+### 2020 - 2021 :
   * Continue learning **Angular 9-10-11-12** :
       - I continued to study the Angular framework.
   * Started learning **TypeScript 4** :
@@ -41,9 +40,8 @@
         With "administrator" mode, the customer takes control of the application to update the content.
   * 🎁🏆 2+ year of professional experience !!
 
----
 
-- 2021 - 2022 :
+### 2021 - 2022 :
   * TBC
 
 
