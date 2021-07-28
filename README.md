@@ -29,6 +29,8 @@ This is my personal Roadmap 🚀🌝
       - I joined the [**TFTLabs**](https://www.tftlabs.fr) team as a **software developer**. I am a web applications architect for this company.
   * **Angular 7-8-9 + rxJS** :
       - I continued to study the Angular framework. And i started to learn RxJS library.
+  * Started learning **TypeScript 3** :
+      - I started learning TypeScript.
   * Started learning **MongoDB + Mongoose** :
       - I had to choose a database solution in the architecture of one of our applications. I chose MongoDB and its Mongoose plugin.
   * Started learning **NestJS** : 
@@ -56,9 +58,9 @@ This is my personal Roadmap 🚀🌝
         - This application is intented for a **multi-national group**. From a concept imagined by our partner, we have developed a web application intended for companies wishing to communicate and promote the skills and know-how of their employees.
         This application also makes it possible to **inform** these employees about **developments** or **opportunities** within the company.
         With "administrator" mode, the customer takes control of the application to update the content.
-  * 🎁🏆 2+ year of professional experience !!
+  * 🎁🏆 2+ years of professional experience !!
 
 
 ### 2021 - 2022 :
-  * TBC
+  * Starting **Fullstack Software Developer** path. I deepen my skills in software development. I decide to improve my skills in order to be a fullstack developer.
 
