@@ -8,4 +8,4 @@
 ## Tutorials
 
 * [Machine Learning](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/machine-learning.md)
-* Software Dev](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/softwaredev.md)
+* [Software Dev](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/softwaredev.md)
