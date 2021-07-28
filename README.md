@@ -31,13 +31,13 @@
           - Custom JSX Factories (need by React, but i don't use react so much atm...)
           - and more...
   * Started learning **Docker** :
-      - I develop all my projects with docker now. I know how to set up a little kubernetes server.
+      - I develop all my projects with Docker. I know how to dockerize apps and api.
   * Started learning **Kubernetes** :
-      - I spend many hours to understand and apply some devOps standard to upgrade my devOps skills. I know how to dockerize apps and api. And 
+      - I spend many hours to understand and apply some devOps standard to upgrade my devOps skills. I know how to set up a little kubernetes server.
   * 🔥 First marketed application (Fullstack) : 
       - I built my first **marketed application** (private client) with **Angular 10 + NestJS** ❤💙 : 
-        - This application is intented for a multi-national group. From a concept imagined by our partner, we have developed a web application intended for companies wishing to communicate and promote the skills and know-how of their employees.
-        This application also makes it possible to inform these employees about developments or opportunities within the company.
+        - This application is intented for a **multi-national group**. From a concept imagined by our partner, we have developed a web application intended for companies wishing to communicate and promote the skills and know-how of their employees.
+        This application also makes it possible to **inform** these employees about **developments** or **opportunities** within the company.
         With "administrator" mode, the customer takes control of the application to update the content.
   * 🎁🏆 2+ year of professional experience !!
 
