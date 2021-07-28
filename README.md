@@ -1,6 +1,24 @@
 # My dev notes
 
-## Life Tracking
+This is my personal Roadmap 🚀🌝
+
+## Notebooks 📘
+
+* [TypeScript](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/typescript.md)
+* [Mongoose](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/mongoose.md)
+
+## Life Tracking 🔎
+
+* [2019-2020](#2019-2020)
+* [2020-2021](#2020-2021)
+* [2021-2022](#2021-2022)
+
+## Tutorials 💥
+
+* [Machine Learning](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/machine-learning.md)
+* [Software Dev](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/softwaredev.md)
+
+## Life Tracking 🔎
 
 ### 2019 - 2020 :
   * 🔥 Learned Vanilla JS : 
@@ -44,14 +62,3 @@
 ### 2021 - 2022 :
   * TBC
 
-
-
-## Notebooks
-
-* [TypeScript](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/typescript.md)
-* [Mongoose](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/mongoose.md)
-
-## Tutorials
-
-* [Machine Learning](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/machine-learning.md)
-* [Software Dev](https://github.com/mkubdev/my-dev-note/blob/main/notebooks/tutorials/softwaredev.md)
