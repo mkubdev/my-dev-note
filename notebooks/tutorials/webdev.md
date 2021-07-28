@@ -10,11 +10,11 @@
 
 ### 👽 TODO
 
+* [x] Build a ChatBot with OpenAI's GPT-3 engine : [🔗](https://www.twilio.com/blog/openai-gpt-3-chatbot-python-twilio-sms)
+* [x] Strapi + NuxtJs : eCommerce tuts : [🔗](https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial)
+* [ ] Build a simple Chat App with WebSocks in Go and Vue.js : [🔗](https://dev.to/jeroendk/building-a-simple-chat-application-with-websockets-in-go-and-vue-js-gao)
 * [ ] How to build a Movie app using Strapi and Angular : [🔗](https://strapi.io/blog/how-to-build-a-movie-app-using-strapi-and-angular)
 * [ ] Build a fullstack next.js app with Auth, Data and Storage (AWS) : [🔗](https://welearncode.com/build-a-fullstack-app-nextjs/)
-* [ ] Strapi + NuxtJs : eCommerce tuts : [🔗](https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial)
-* [x] Build a ChatBot with OpenAI's GPT-3 engine : [🔗](https://www.twilio.com/blog/openai-gpt-3-chatbot-python-twilio-sms)
-* [ ] Build a simple Chat App with WebSocks in Go and Vue.js : [🔗](https://dev.to/jeroendk/building-a-simple-chat-application-with-websockets-in-go-and-vue-js-gao)
 
 #### Angular
 
