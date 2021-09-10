@@ -19,6 +19,7 @@
 #### Angular
 
 * [x] How does angular 2 change detection really work : [🔗](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/)
+* [ ] Make a sidenav responsive layout : [🔗](https://zoaibkhan.com/blog/create-a-responsive-sidebar-menu-with-angular-material/)
 
 #### Dev Mobile
 
